@@ -33,7 +33,7 @@
       "studyType": "Associates",
       "startDate": "2022-07-06",
       "endDate": "Present",
-      "courses": "Programming", "Business", "Professional Development", "Cybersecurity", "Networking Fundamentals", "Database Design", "Administrating Windows/Windows Server" [
+      "courses": [ "Programming", "Business", "Professional Development", "Cybersecurity", "Networking Fundamentals", "Database Design", "Administrating Windows/Windows Server"
       ]
     }
   ],
