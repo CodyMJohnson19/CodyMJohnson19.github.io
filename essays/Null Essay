@@ -1,0 +1,11 @@
+---
+layout: essay
+type: essay
+title: "Blank Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2016-02-06
+published: true
+labels:
+  - None
+---
+This is a template for if I need to share an essay I worked on!
