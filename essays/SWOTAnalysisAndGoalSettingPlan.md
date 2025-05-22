@@ -6,7 +6,7 @@ title: "Personal SWOT Analysis and Goal-Setting Plan"
 date: 2025-01-12
 published: true
 labels:
-  - None
+  - Professional Development
 ---
   When it comes to bettering yourself professionally, one way is to take a personal SWOT analysis. A SWOT analysis analyzes your strengths, weaknesses, opportunities you have, and threats to yourself. Using this system, I can aim to find improvement in myself and see what is possible with the skills I have now.
 
