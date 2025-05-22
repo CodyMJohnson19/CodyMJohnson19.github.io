@@ -7,7 +7,7 @@
     "phone": "574-702-9406",
     "website": "https://CodyMJohnson19.github.io",
     "summary": "I studied for my Associates of Science in Computer Information Technology at Sullivan University and graduated in May of 2025.",
-    "location": { "address": "", "postalCode": "46947", "city": "Logansport", "countryCode": "USA", "region": "Indiana" },
+    "location": { "address": "831 20th Steet", "postalCode": "46947", "city": "Logansport", "countryCode": "USA", "region": "Indiana" },
     "profiles": [
       { "network": "github", "username": "CodyMJohnson19", "url": "http://github.com/CodyMJohnson19" }
     ]
@@ -29,7 +29,7 @@
   "education": [
     {
       "institution": "Sullivan University, Louiville, KY",
-      "area": "Computer Information Technology (expected March, 2025)",
+      "area": "Computer Information Technology",
       "studyType": "Associates",
       "startDate": "2022-07-06",
       "endDate": "2025-25-03",
