@@ -24,6 +24,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "Windows", "Windows Server Manager 2019", "Git/GitHub", "Visual Studio", "Microsoft Access", "Microsoft Excel" ]
+    },
+    {
+      "name": "Personal Skills",
+      "keywords": [ "High Emotional Intelligence", "Active Listening", "Preparedness", "Adaptability", "Critical Thinking" ]
     }
   ],
   "education": [
