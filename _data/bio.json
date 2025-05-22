@@ -6,7 +6,7 @@
     "email": "codymjohnson11@gmail.com",
     "phone": "574-702-9406",
     "website": "https://CodyMJohnson19.github.io",
-    "summary": "I am studying for my Associates in Information Technology at Sullivan University in Louiville Kentucky. I expect to graduate in March of 2025.",
+    "summary": "I studied for my Associates of Science in Computer Information Technology at Sullivan University and graduated in May of 2025.",
     "location": { "address": "", "postalCode": "46947", "city": "Logansport", "countryCode": "USA", "region": "Indiana" },
     "profiles": [
       { "network": "github", "username": "CodyMJohnson19", "url": "http://github.com/CodyMJohnson19" }
@@ -32,7 +32,7 @@
       "area": "Computer Information Technology (expected March, 2025)",
       "studyType": "Associates",
       "startDate": "2022-07-06",
-      "endDate": "Present",
+      "endDate": "2025-25-03",
       "courses": [ "Programming", "Business", "Professional Development", "Cybersecurity", "Networking Fundamentals", "Database Design", "Administrating Windows/Windows Server"
       ]
     }
@@ -75,7 +75,7 @@
   ],
   "references": [
     {
-      "name": "Todd Saylor", "Matt Lange"
+      "name": "Chris Phearson", "Mercedes Reynolds"
     }
   ]
 }
